@@ -1,0 +1,8 @@
+{
+  "name": "wireguard-for-dad",
+  "description": "Toggle vpn connection from GNOME top bar",
+  "uuid": "wireguard-for-dad@rust.me",
+  "shell-version": [
+    "42"
+  ]
+}
